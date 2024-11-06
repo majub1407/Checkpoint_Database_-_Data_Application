@@ -1,0 +1,5 @@
+{
+    "data_file": "online_retail_09_10.csv",
+    "output_dir": "reports/",
+    "date_format": "%Y-%m-%d"
+}
